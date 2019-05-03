@@ -185,7 +185,7 @@ rispetto di alcuni requisiti, tra cui:
   particolare la tracciabilità delle versioni disponibili, la  
   tracciabilità delle richieste ricevute ed evase, la documentazione degli 
   endpoint SOAP e/o REST disponibili e delle rispettive modalità di 
-  invocazione.
+  invocazione;
 - ridurre il rischio di dipendenza esclusiva dal fornitore (**lock in**), 
   garantendo in tal modo alle PA l’esportabilità dei propri dati in un 
   formato interoperabile verso un’altra piattaforma.
@@ -273,8 +273,7 @@ qualificazione richiede che vengano adottate dal fornitore tutte le buone
 pratiche previste dai più importanti e diffusi standard del settore (es. ISO/IEC
 27002).
 
-La qualificazione dei CSP è in fase di avvio. L’elenco dei CSP qualificati sarà
-disponibile sul Marketplace Cloud in corso di attivazione.
+L’elenco dei CSP qualificati è disponibile sul `Marketplace Cloud https://cloud.italia.it/marketplace`.
 
 Cloud SPC Lotto 1 - Community Cloud
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -313,8 +312,7 @@ AgID ha previsto l’utilizzo di una piattaforma dedicata con cui il fornitore d
 servizi cloud, che intende conseguire la qualificazione CSP o SaaS, trasmette
 tutte le informazioni, le dichiarazioni e la documentazione prevista.
 
-È in corso di sviluppo la versione alfa della piattaforma che, una volta
-rilasciata, sarà accessibile tramite cloud.italia.it/marketplace.
+La piattaforma è accessibile all'indirizzo https://cloud.italia.it/marketplace.
 
 .. rubric:: Note
 
